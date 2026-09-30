@@ -57,9 +57,9 @@ Below is a curated comparison of leading SaaS products, sorted by **Market Cap /
 
 The open-source ecosystem provides transparent calculation engines, self-hosted web applications, and frameworks for custom commission rules.
 
-Below are top open-source projects, sorted by **GitHub Star Count** in descending order:
+Below are top open-source projects, sorted by **GitHub Stars_Count** in descending order:
 
-| 📦 Repository / Project | ⭐ GitHub Stars | 🛠️ Tech Stack | 📝 Key Features & Description |
+| 📦 Repository / Project | ⭐ GitHub_Stars | 🛠️ Tech Stack | 📝 Key Features & Description |
 | :--- | :--- | :--- | :--- |
 | **[OCA/commission](https://github.com/OCA/commission)** | [![OCA/commission Stars](https://img.shields.io/github/stars/OCA/commission?style=social&color=white)](https://github.com/OCA/commission/stargazers) | Python / Odoo ERP | **Comprehensive Odoo ERP commission management system.** Provides flexible commission agent assignment, settlement management, formulas, and payout workflows. |
 | **[mkeremcansev/laravel-commission](https://github.com/mkeremcansev/laravel-commission)** | [![laravel-commission Stars](https://img.shields.io/github/stars/mkeremcansev/laravel-commission?style=social&color=white)](https://github.com/mkeremcansev/laravel-commission/stargazers) | PHP / Laravel | **Flexible Laravel package to calculate and log commissions.** Supports percentage, fixed amount, dynamic calculations based on price, and Eloquent integration. |
